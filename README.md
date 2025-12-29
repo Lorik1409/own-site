@@ -1,103 +1,24 @@
-first site
+[script.js](https://github.com/user-attachments/files/24368335/script.js)eicht seit
 
-[index.html](https://github.com/user-attachments/files/24368295/index.html)
-[index.html](https://github.com/user-attachments/files/24368292/index.html)
-<!DOCTYPE html>
-<html>
-  <body>
+[target.html](https://github.com/user-attachments/files/24368324/target.html)
 
-    <h1>Start Page</h1>
+[Upl[index.html](https://github.com/user-attachments/files/24368325/index.html)oading target.html…]()
 
-    <button onclick="goNext()">Continue</button>
+zweet seit
 
-    <script>
-      function goNext() {
-        window.location.href = "target.html";
-      }
-    </script>
+[Up[style.css](https://github.com/user-attachments/files/24368336/style.css)[index.html](https://github.com/user-attachments/files/24368338/index.html)
+[about.html](https://github.com/user-attachments/files/24368337/about.html)
+loading script.js…]()
 
-  </body>
-</html>
+drett seit
 
-second site
+[index.html](https://github.com/user-attachments/files/24368341/index.html)
+[script.js](https://github.com/user-attachments/files/24368342/script.js)[about.html](https://github.com/user-attachments/files/24368344/about.html)
+[sytle.css](https://github.com/user-attachments/files/24368343/sytle.css)
 
-[Uploa<!DOCTYPE html>
-<html>
-<head>
-  <title>Profi Website</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+veiert seit
 
-  <header>
-    <h1>Welcome to My Profi Page</h1>
-  </header>
-
-  <main>
-    <p>This is the start page.</p>
-    <button id="goAbout">Go to About Page</button>
-  </main>
-
-  <script src="script.js"></script>
-</body>
-</html>
-ding index.html…]()
-
-thirt site
-
-[index.html](https://github.com/user-attachments/files/24368301/index.html)
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Profi Website Level 2</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-  <header>
-    <h1 id="main-title">Welcome to My Profi Page</h1>
-  </header>
-
-  <main>
-    <p>This is the start page with animations and pop-ups.</p>
-    <button id="goAbout">Go to About Page</button>
-    <button id="showPopup">Show Pop-up</button>
-    <div id="popup" class="hidden">
-      <p>Hello! This is a pop-up 🎉</p>
-      <button id="closePopup">Close</button>
-    </div>
-  </main>
-
-  <script src="script.js"></script>
-</body>
-</html>
-
-firt site
-
-[index.html](https://github.com/user-attachments/files/24368304/index.html)
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Profi Page</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-  <header>
-    <h1 id="main-title">Welcome to My Page</h1>
-    <p id="subtitle">Learn more about me!</p>
-  </header>
-
-  <main>
-    <button id="goAbout">Go to About Me</button>
-    <button id="showPopup">Surprise Me!</button>
-
-    <div id="popup" class="hidden">
-      <p>Hello! Welcome to my page 🎉</p>
-      <button id="closePopup">Close</button>
-    </div>
-  </main>
-
-  <script src="script.js"></script>
-</body>
-</html>
+[script.js](https://github.com/user-attachments/files/24368345/script.js)
+[sytle.css](https://github.com/user-attachments/files/24368346/sytle.css)[index.html](https://github.com/user-attachments/files/24368349/index.html)
+![codingimagespizza png](https://github.com/user-attachments/assets/c27c4d35-4f0b-4e9f-acd2-e8ddcc53559b)
+[about.html](https://github.com/user-attachments/files/24368347/about.html)
